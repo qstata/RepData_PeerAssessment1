@@ -108,7 +108,6 @@ step.mean2 <- round(mean(total.steps2, na.rm = TRUE), 0)
 # Calculate and report the median of the total number of steps taken per day
 step.median2 <- median(total.steps2, na.rm = TRUE)
 ```
-
 The mean and median of the total number of steps taken per day are 
 `r step.mean2` and `r step.median2`, respectively. The mean values is 
 the same as the estimates from the first part of the assignment and the 
